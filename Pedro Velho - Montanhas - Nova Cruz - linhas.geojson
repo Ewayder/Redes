@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "SPI Adutoras Pedro Velho - Montanhas - Nova Cruz - linhas",
+"name": "Pedro Velho - Montanhas - Nova Cruz - linhas",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "fid": 1, "Name": "Trecho 300mm", "description": "Material: Ferro Fundido", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "layer": "Adutora", "path": "C:\\Users\\joaogomes\\Desktop\\SPI Adutoras Pedro Velho - Montanhas - Nova Cruz.kmz|layername=Adutora|geometrytype=LineString25D|uniqueGeometryType=yes" }, "geometry": { "type": "LineString", "coordinates": [ [ -35.225441117295389, -6.445629434808582, 0.0 ], [ -35.226447108041718, -6.448275044112737, 0.0 ], [ -35.226794777251463, -6.449172797877076, 0.0 ], [ -35.227476238641977, -6.451087295708851, 0.0 ], [ -35.228944867654633, -6.453079481218091, 0.0 ], [ -35.230906945756061, -6.455392642262193, 0.0 ], [ -35.23263186363242, -6.457312323005842, 0.0 ], [ -35.233531487982411, -6.457959531021713, 0.0 ], [ -35.235002182549302, -6.458454766128524, 0.0 ], [ -35.249130639595791, -6.462097097065269, 0.0 ], [ -35.254197557536138, -6.463141964457435, 0.0 ], [ -35.254573378341973, -6.463281850510609, 0.0 ], [ -35.25461604613259, -6.463155933111277, 0.0 ] ] } },
